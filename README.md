@@ -23,9 +23,9 @@
 ## My Skills and Tools
 
 <ul>
-  <li>Programming Language: <a href='https://www.python.org/'>Python</a></li>
-  <li>ML: TensorFlow</li>
-  <li>Web Scraping: Selenuim</li>
+  <li>Programming Language 💻: <a href='https://www.python.org/'>Python 🐍</a></li>
+  <li>ML 🤖: <a href='https://www.tensorflow.org/'>TensorFlow</a></li>
+  <li>Web Scraping 🧑‍💻: <a href='https://www.selenium.dev/'>Selenuim</a></li>
 </ul>
 
 
