@@ -23,7 +23,7 @@
 ## My Skills and Tools
 
 <ul>
-  <li>Programming: Python</li>
+  <li>Programming Language: <a href='https://www.python.org/'>Python</a></li>
   <li>ML: TensorFlow</li>
   <li>Web Scraping: Selenuim</li>
 </ul>
