@@ -5,8 +5,8 @@
 </div>
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- 🔭 I’m currently working on ...(nothing now) 
+
 
 - 🌱 I’m currently learning TensorFlow and related frameworks  
   
@@ -20,20 +20,15 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skills and Tools
+
+<ul>
+  <li>Programming: Python</li>
+  <li>ML: TensorFlow</li>
+  <li>Web Scraping: Selenuim</li>
+</ul>
 
 
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -62,16 +57,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sadra-TMH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-<br/>  
-
-  
-
-<br/>  
- 
-
-<br/>  
-
-
-<br />
 
