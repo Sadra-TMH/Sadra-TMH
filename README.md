@@ -24,7 +24,8 @@
 
 <ul>
   <li>Programming Language 💻: <a href='https://www.python.org/'>Python 🐍</a></li>
-  <li>ML 🤖: <a href='https://www.tensorflow.org/'>TensorFlow</a></li>
+  <li>DL 🤖: <a href='https://scikit-learn.org/stable/'>Scikit-Learn</a></li>
+  <li>DL 🤖: <a href='https://www.tensorflow.org/'>TensorFlow</a></li>
   <li>Web Scraping 🧑‍💻: <a href='https://www.selenium.dev/'>Selenuim</a></li>
 </ul>
 
