@@ -1,5 +1,5 @@
 ### <div align="center">Hi  👋 I'm Sadra.</div>
-### <div align="center">I'm a junior machine learning developer👨‍💻.</div>  
+### <div align="center">I'm a machine learning developer👨‍💻.</div>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Sadra-TMH&&style=flat-square" align="center" />
 </div>
