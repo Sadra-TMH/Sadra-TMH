@@ -5,7 +5,7 @@
 </div>
   
 
-- 🔭 I’m currently working on ...(nothing now) 
+- 🔭 I’m currently working with TF Object Detection API. 
 
 
 - 🌱 I’m currently learning TensorFlow and related frameworks  
