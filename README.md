@@ -19,18 +19,6 @@
 
 <br/>  
 
-
-## My Skills and Tools
-
-<ul>
-  <li>Programming Language 💻: <a href='https://www.python.org/'>Python 🐍</a></li>
-  <li>ML 🤖: <a href='https://scikit-learn.org/stable/'>Scikit-Learn</a></li>
-  <li>DL 🤖: <a href='https://www.tensorflow.org/'>TensorFlow</a></li>
-  <li>Web Scraping 🧑‍💻: <a href='https://www.selenium.dev/'>Selenuim</a></li>
-</ul>
-
-
-
 <br/>  
 
 
@@ -53,9 +41,4 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sadra-TMH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
