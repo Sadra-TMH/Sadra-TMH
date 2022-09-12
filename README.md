@@ -8,15 +8,6 @@
 - 🔭 I’m currently working with TF Object Detection API. 
 
 
-- 🌱 I’m currently learning TensorFlow and related frameworks  
-  
-
-- ❓ Ask me about python, numpy, pandas and machine learning  
-  
-
-- ⚡ Fun fact: I use tabs over spaces (I mean who wouldn't 😄)  
-  
-
 <br/>  
 
 <br/>  
