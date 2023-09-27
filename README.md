@@ -1,10 +1,10 @@
 ### <div align="center">Hi  👋 I'm Sadra.</div>
-### <div align="center">I'm a machine learning developer👨‍💻.</div>  
+### <div align="center">I'm a full stack web developer👨‍💻.</div>  
 
   <br/>  
 
 
-- 🔭 I’m currently working with TF Object Detection API. 
+- 🔭 I’m currently exploring node js.
 
 
 <br/>  
