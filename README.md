@@ -1,5 +1,5 @@
 ### <div align="center">Hi  👋 I'm Sadra.</div>
-### <div align="center">I'm a full stack web developer👨‍💻.</div>  
+### <div align="center">I'm a web developer👨‍💻.</div>  
 
   <br/>  
 
